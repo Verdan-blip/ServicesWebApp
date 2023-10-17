@@ -79,6 +79,23 @@
 
 </div>
 
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1>О нас</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ual_EGWuvZs?si=6CbQ9kHCvivQfx-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="position:relative;overflow:hidden;">
+                <a href="https://yandex.ru/maps/43/kazan/?utm_medium=mapframe&utm_source=maps"
+                   style="color:#eee;font-size:12px;position:absolute;top:0px;">Казань</a>
+                <a href="https://yandex.ru/maps/43/kazan/house/territoriya_derevnya_universiady_18/YEAYdw9hTkIDQFtvfXt1c3RrYA==/?ll=49.181773%2C55.742884&utm_medium=mapframe&utm_source=maps&z=17.14" style="color:#eee;font-size:12px;position:absolute;top:14px;">Территория Деревня Универсиады, 18 — Яндекс Карты</a>
+                <iframe src="https://yandex.ru/map-widget/v1/?ll=49.181773%2C55.742884&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1NjI1NzA1MxKmAdCg0L7RgdGB0LjRjywg0KDQtdGB0L_Rg9Cx0LvQuNC60LAg0KLQsNGC0LDRgNGB0YLQsNC9LCDQmtCw0LfQsNC90YwsINCf0YDQuNCy0L7Qu9C20YHQutC40Lkg0YDQsNC50L7QvSwg0YLQtdGA0YDQuNGC0L7RgNC40Y8g0JTQtdGA0LXQstC90Y8g0KPQvdC40LLQtdGA0YHQuNCw0LTRiywgMTgiCg0iukRCFbb4XkI%2C&z=17.14" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;">
+                </iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script>
     let selectMaster = $('#choose-a-master')
     let selectService = $('#choose-a-service')
